@@ -1,0 +1,14 @@
+# Build artifacts
+Sleepless
+Sleepless.app/
+*.o
+*.d
+
+# Xcode (if we add a project later)
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+
+# macOS
+.DS_Store
