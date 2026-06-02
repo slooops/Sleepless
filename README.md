@@ -2,7 +2,9 @@
 
 A tiny macOS menu bar app that keeps your Mac awake. No Electron, no dependencies — just a single Swift file.
 
-<img width="200" alt="sleepless-menu" src="https://github.com/user-attachments/assets/placeholder.png">
+<p align="center">
+  <img width="128" alt="Sleepless icon" src="AppIcon.png">
+</p>
 
 ## Features
 
